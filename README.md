@@ -201,9 +201,8 @@ Follow these steps to set up the project locally:
 ---
 
 ## Contributors
-- **Akarsh Singh**
-- **Rhythm Sethiya**
-- **Aryan Sharma**
+- **S.LAKSHMI ABHISHIKTHA**
+- **P.CHAITRA SREE**
 
 ---
 
