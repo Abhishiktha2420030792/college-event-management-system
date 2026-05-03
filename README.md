@@ -202,7 +202,6 @@ Follow these steps to set up the project locally:
 
 ## Contributors
 - **S.LAKSHMI ABHISHIKTHA**
-- **P.CHAITRA SREE**
 
 ---
 
